@@ -10,10 +10,12 @@ The need for collaboration within a developer team on a single file or set of fi
 addresses the major vulnerability of the CVS: the server as a single point of failure
 # Git :
 is a DVCS that stores data in a file system made up of snapshots.
+
 Git can be installed in three ways:
 
 1.Install as a package
 2.Install via another installer
-3.Download and compile the source code.
+3.Download and compile the source code
+
 
 You can download Git by visiting this link and following the posted directions:[git](http://git-scm.com/download/win).
