@@ -18,4 +18,4 @@ Git can be installed in three ways:
 3.Download and compile the source code
 
 
-You can download Git by visiting this link and following the posted directions:[git](http://git-scm.com/download/win).
+or You can download Git by visiting this link and following the posted directions:[git](http://git-scm.com/download/win).
